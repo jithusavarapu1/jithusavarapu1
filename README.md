@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jithendra Savarapu
+0# Hi 👋, I'm Jithendra Savarapu
 
 ### 🐍 Python Full Stack Developer | MCA Graduate
 
@@ -71,7 +71,7 @@ A responsive sports club website developed using:
 ## 📫 Connect With Me
 
 - 📧 **Email:** jithusavarapu380@gmail.com
-- 💼 **LinkedIn:** [Savarapu Jithendra](https://linkedin.com/in/Savarapu-Jithendra)
+- 💼 **LinkedIn:** [Savarapu Jithendra](www.linkedin.com/in/savarapu-jithendra)
 - 🐙 **GitHub:** [jithusavarapu1](https://github.com/jithusavarapu1)
 
 ---
