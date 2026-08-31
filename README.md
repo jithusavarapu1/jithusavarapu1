@@ -71,7 +71,7 @@ A responsive sports club website developed using:
 ## 📫 Connect With Me
 
 - 📧 **Email:** jithusavarapu380@gmail.com
-- 💼 **LinkedIn:** [Savarapu Jithendra](www.linkedin.com/in/savarapu-jithendra)
+- 💼 **LinkedIn:**  [LinkedIn](https://www.linkedin.com/in/savarapu-jithendra/)
 - 🐙 **GitHub:** [jithusavarapu1](https://github.com/jithusavarapu1)
 
 ---
