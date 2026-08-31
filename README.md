@@ -4,7 +4,9 @@
 
 I'm a Python Full Stack Developer passionate about building secure, responsive, and user-friendly web applications.
 
-### 🚀 About Me
+---
+
+## 🚀 About Me
 
 - 🎓 MCA Graduate
 - 💻 Python Full Stack Developer
@@ -13,7 +15,9 @@ I'm a Python Full Stack Developer passionate about building secure, responsive, 
 - 💡 Interested in Python, Django, Flask and Web Development
 - 📍 Open to Python Developer / Full Stack Developer opportunities
 
-### 🛠️ Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 - **Programming:** Python, SQL
 - **Backend:** Django, Flask, REST APIs
@@ -21,10 +25,13 @@ I'm a Python Full Stack Developer passionate about building secure, responsive, 
 - **Database:** MySQL, SQLite
 - **Tools:** Git, GitHub, Postman, VS Code
 
-### 📌 Projects
+---
 
-#### 🔐 Online Secure Exam Portal
-A secure web-based examination platform built using Python and Flask.
+## 📌 Projects
+
+### 🔐 Online Secure Exam Portal
+
+A secure web-based examination platform developed using Python and Flask.
 
 **Technologies:** Python | Flask | SQLAlchemy | MySQL | SQLite | REST API | HTML | CSS | JavaScript | Bootstrap
 
@@ -34,18 +41,44 @@ A secure web-based examination platform built using Python and Flask.
 - REST API integration
 - Database management using SQLAlchemy
 
-#### 🏆 NOVA Sports Club
+### 🏆 NOVA Sports Club
 
 A responsive sports club website developed using:
 
 **HTML5 | CSS3 | JavaScript | Bootstrap**
 
-### 📫 Connect With Me
-
-- 📧 Email: jithusavarapu380@gmail.com
-- 💼 LinkedIn: [Savarapu Jithendra](https://linkedin.com/in/Savarapu-Jithendra)
-- 🐙 GitHub: [jithusavarapu1](https://github.com/jithusavarapu1)
+- Responsive website design
+- Interactive user interface
+- Sports activities and event information
+- Mobile-friendly layout
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💼 Internship Experience
+
+### Python Full Stack Developer Intern
+**Novahamo Technologies Pvt. Ltd., Chennai**
+
+- Worked on the **Online Secure Exam Portal**
+- Developed REST APIs using Python and Flask
+- Implemented CRUD operations and role-based access
+- Worked with MySQL and SQLAlchemy
+- Performed API testing using Postman
+- Used Git and GitHub for version control
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** jithusavarapu380@gmail.com
+- 💼 **LinkedIn:** [Savarapu Jithendra](https://linkedin.com/in/Savarapu-Jithendra)
+- 🐙 **GitHub:** [jithusavarapu1](https://github.com/jithusavarapu1)
+
+---
+
+## ⭐ Thank You
+
+Thanks for visiting my GitHub profile!  
+Feel free to explore my repositories and projects.
+
+---
